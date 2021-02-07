@@ -2,20 +2,25 @@
 
 # How to reach me
 <a href="https://www.linkedin.com/in/adrian-suciu/">
-  <img src="" width="auto" height="50px" />
+  <img src="https://webnut.ro/wp-content/themes/seosight/svg/socials/linkedin.svg" width="auto" height="50px" />
 </a>
+<a href="https://www.facebook.com/Webnutro-106216671503170">
+  <img src="https://webnut.ro/wp-content/themes/seosight/svg/socials/facebook.svg" width="auto" height="50px" />
+</a>
+
+
 
 # Stats
-<a href="">
-  <img src="" align="center"/>
+<a href="https://github.com/evermore84?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=evermore84&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align="center"/>
 </a>
-<a href="">
-  <img src="" align="center"/>
+<a href="https://github.com/evermore84?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evermore84&langs_count=5&theme=dark&layout=compact&card_width=270" align="center"/>
 </a>
 
-# How to reach me
-<a href="">
-  <img src="" width="auto" height="50px" />
+# Personal Projects
+<a href="https://github.com/evermore84">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=evermore84&repo=pulse_sensor&theme=dark&hide_border" align="center"/>
 </a>
        
 <!--
