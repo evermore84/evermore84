@@ -8,7 +8,7 @@
   <img src="https://webnut.ro/wp-content/themes/seosight/svg/socials/facebook.svg" width="auto" height="50px" />
 </a>
 <a href="https://adrian.webnut.ro/">
-  <img src="http://adrian.webnut.ro/images/iconmonstr-external-link-thin.svg" width="auto" height="50px" />
+  <img src="https://webnut.ro/External.svg" width="auto" height="50px" />
 </a>
 
 
