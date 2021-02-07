@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Adrian Suciu and i'm an avid collector of information
 
 # How to reach me
 <a href="https://www.linkedin.com/in/adrian-suciu/">
@@ -7,7 +7,9 @@
 <a href="https://www.facebook.com/Webnutro-106216671503170">
   <img src="https://webnut.ro/wp-content/themes/seosight/svg/socials/facebook.svg" width="auto" height="50px" />
 </a>
-
+<a href="https://adrian.webnut.ro/">
+  <img src="http://adrian.webnut.ro/images/iconmonstr-external-link-thin.svg" width="auto" height="50px" />
+</a>
 
 
 # Stats
