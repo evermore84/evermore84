@@ -4,10 +4,10 @@
 <a href="https://www.linkedin.com/in/adrian-suciu/">
   <img src="https://webnut.ro/wp-content/themes/seosight/svg/socials/linkedin.svg" width="auto" height="50px" />
 </a>
-<a href="https://www.facebook.com/Webnutro-106216671503170">
+<a href="https://www.facebook.com/ScaleYourOnlineBusiness/">
   <img src="https://webnut.ro/wp-content/themes/seosight/svg/socials/facebook.svg" width="auto" height="50px" />
 </a>
-<a href="https://adrian.webnut.ro/">
+<a href="https://adrian.webnut.ro/en/">
   <img src="https://webnut.ro/External.svg" width="auto" height="50px" />
 </a>
 
